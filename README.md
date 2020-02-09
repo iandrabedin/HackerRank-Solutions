@@ -1,2 +1,2 @@
-# hacker-rank-interview-answers
-Hacker Rank interview's answers
+# HackerRank Solutions
+Hacker Rank solutions for Interview Preparation Kit
